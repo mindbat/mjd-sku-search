@@ -1,0 +1,8 @@
+; $Id$
+name = MJD SKU Search
+description = Add SKU field to Solr index for searching 
+core = 7.x
+package = MJD
+
+;Base Module Files
+files[] = sku_search.module 
